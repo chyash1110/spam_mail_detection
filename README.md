@@ -52,3 +52,9 @@ To retrain the model, run the Jupyter notebook `spam-sms-prediction.ipynb` which
 ## Contributing
 
 Contributions are welcome! Please create an issue or submit a pull request.
+
+## Ouput
+
+![image](https://github.com/chyash1110/spam_mail_detection/assets/118417410/9f69ca16-ed50-4761-8b3c-a210b6938718)
+![image](https://github.com/chyash1110/spam_mail_detection/assets/118417410/f2427403-c4e2-4a40-83d2-d51c4921ed60)
+
